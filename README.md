@@ -6,7 +6,7 @@ This repo show you how to start mining on Bittensor using a center-endpoint, mea
 
 ## Tutorial
 
-Find out how to set up an endpoint-center for mining on Bittensor: https://github.com/superdevpp/Bittensor_Mining_Tutorial/blob/main/docs/start_mining_aws.md
+Find out how to set up an endpoint-center for mining on Bittensor: https://github.com/ppsolutionthink/Bittensor_Mining_Tutorial/blob/main/docs/start_mining_aws.md
 
 
 ## Contributions
